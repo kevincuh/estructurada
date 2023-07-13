@@ -10,8 +10,8 @@ main()
 	scanf("%d",&n1);
 	printf("Ingresa n2: ");
 	scanf("%d",&n2);
-
 	resta = n1 - n2;
+
 	printf("n1 = %d  n2 = %d",n1,n2);
 	pintd("\nLa resta es %d",resta);
 }
