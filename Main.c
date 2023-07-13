@@ -3,8 +3,7 @@
 
 main()
 {
-	printf("Hola mundo desde git");
-	int n1, n2;
+	int n1, n2, n3;
 	printf("Ingresa n1: ");
 	scanf("%d",&n1);
 	printf("Ingresa n2: ");
